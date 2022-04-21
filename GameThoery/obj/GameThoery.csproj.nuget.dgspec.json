@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameThoery\\GameThoery.csproj": {}
+    "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary_AndTesting\\GameThoery\\GameThoery.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary\\GameLibrary.csproj": {
+    "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary_AndTesting\\GameLibrary\\GameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary\\GameLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary_AndTesting\\GameLibrary\\GameLibrary.csproj",
         "projectName": "GameLibrary",
-        "projectPath": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary\\GameLibrary.csproj",
+        "projectPath": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary_AndTesting\\GameLibrary\\GameLibrary.csproj",
         "packagesPath": "C:\\Users\\Bobby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary_AndTesting\\GameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bobby\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameThoery\\GameThoery.csproj": {
+    "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary_AndTesting\\GameThoery\\GameThoery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameThoery\\GameThoery.csproj",
+        "projectUniqueName": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary_AndTesting\\GameThoery\\GameThoery.csproj",
         "projectName": "GameThoery",
-        "projectPath": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameThoery\\GameThoery.csproj",
+        "projectPath": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary_AndTesting\\GameThoery\\GameThoery.csproj",
         "packagesPath": "C:\\Users\\Bobby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameThoery\\obj\\",
+        "outputPath": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary_AndTesting\\GameThoery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bobby\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary\\GameLibrary.csproj": {
-                "projectPath": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary\\GameLibrary.csproj"
+              "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary_AndTesting\\GameLibrary\\GameLibrary.csproj": {
+                "projectPath": "C:\\Users\\Bobby\\Desktop\\HomeWork\\AdvancedSoftware\\GameLibrary\\GameLibrary_AndTesting\\GameLibrary\\GameLibrary.csproj"
               }
             }
           }
